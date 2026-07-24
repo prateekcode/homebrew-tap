@@ -1,7 +1,7 @@
 # RiekApps Homebrew Tap
 
 ```sh
-brew install --cask prateek-apk/tap/tidydisk
+brew install --cask prateekcode/tap/tidydisk
 ```
 
 | Cask | Description |
