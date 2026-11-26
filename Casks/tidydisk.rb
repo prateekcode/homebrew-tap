@@ -1,6 +1,6 @@
 cask "tidydisk" do
-  version "2.0"
-  sha256 "2a26aef46493c8846bd4ba537f402b7bbcba50bc7f86ac9533e6672a589d547b"
+  version "2.1"
+  sha256 "5635528215d32b672a5fa40d95c3819c40aacf3ad91eac229769b00028e37540"
 
   url "https://github.com/prateekcode/tidydisk/releases/download/v#{version}/TidyDisk-#{version}.zip"
   name "TidyDisk"
