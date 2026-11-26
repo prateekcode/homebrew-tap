@@ -7,7 +7,7 @@ cask "tidydisk" do
   desc "Disk cleaner for Mac developers"
   homepage "https://tidydisk.riekapps.com/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "TidyDisk.app"
 
